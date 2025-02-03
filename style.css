@@ -86,7 +86,7 @@ button {
     color: white;
     font-weight: 700;
     font-size: 18px;
-    border: 1px solid black;
+    border: none;
 }
 
 button:hover {
@@ -139,7 +139,7 @@ width: 170px;
     font-style: italic;
     font-weight: lighter;
     color: #1f2937;
-    padding: 100px 570px;
+    padding: 10% 25%;
 }
 
 .thor-quote {
